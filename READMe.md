@@ -34,4 +34,5 @@ This project was created to demonstrate:
 
 ## Status
 The landing page is fully functional. The form sends submissions to Formspree, and the Telegram and VK buttons can be linked to real communities or services.
+IMPORTANT, FILE index.html MUST BE IN FOLDER C app.py
 !!!!! NOT AN OFFICIAL MOJANG PRODUCT!!!!
